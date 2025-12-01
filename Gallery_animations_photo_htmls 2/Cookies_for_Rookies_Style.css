@@ -49,6 +49,16 @@ header img {
 	
 }
 
+footer {
+	text-align: center;
+	padding: 20px;
+	border-top: 1px solid #165578;
+	margin-top: 30px;
+	
+}
+
+
+
 /* Social Media Icons Row */
 footer .social-icons {
 display: flex;
@@ -68,6 +78,7 @@ footer .social-icons img:hover {
 	transform: scale(1.15);
 
 }
+
 
 
 
