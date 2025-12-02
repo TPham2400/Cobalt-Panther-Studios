@@ -53,4 +53,24 @@ header img{
 	
 }
 
+/* Social Media Icons Row */
+footer .social-icons {
+display: flex;
+justify-content: center;
+align-items: center;
+gap: 20px; /* spacing between icons */
+margin-top: 10px;
+}
+
+footer .social-icons img {
+width: 35px;
+height: auto;
+transition: transform 0.2s ease;
+}
+
+
+
+
+
+
 
