@@ -68,7 +68,9 @@ height: auto;
 transition: transform 0.2s ease;
 }
 
-
+footer .social-icons img:hover {
+transform: scale(1.15);
+}
 
 
 
